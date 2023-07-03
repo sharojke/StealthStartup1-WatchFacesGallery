@@ -11,7 +11,7 @@
   
   <p align="center">
     <em>
-      An application that helps people decorate their watches
+      An application that helps people decorate their apple watches
     </em>
   </p>
 </div>
@@ -30,6 +30,7 @@
             <li><a href="#watch-faces">Watch Faces</a></li>
             <li><a href="#creating-and-editing-a-watch-face">Creating and Editing a Watch Face</a></li>
             <li><a href="#widgets">Widgets</a></li>
+            <li><a href="#support-for-all-possible-watch-series">Support for all possible Watch Series</a></li>
           </ul>
         <li><a href="#company">Company</a></li>
         <li><a href="#team-composition">Team Composition</a></li>
@@ -70,11 +71,49 @@ Since we didn't have a backend, the task became more difficult. We used *Firebas
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-#### SMTH
+#### Watch Faces
 
-| <img title="Preview" src="/Resources/GIF/preview.gif" width="200"/> |
+| <img title="Main Screen" src="/Resources/GIF/preview1.gif" width="200"/> &nbsp;&nbsp; <img title="Watch Face Screen" src="/Resources/GIF/preview2.gif" width="200"/> |
 |:--:|
-| *Preview* |
+| *Viewing dials* |
+
+Different dial types:
+
+Static - 3 pictures
+Live - 2 video
+With complications - 1 video and 2 pictures
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+#### Creating and Editing a Watch Face
+
+| <img title="Creator Screen" src="/Resources/GIF/creator.gif" width="200"/> |
+|:--:|
+| *Creator Screen* |
+
+| <img title="Edit static dial 1" src="/Resources/GIF/edit-static-0.gif" width="200"/> &nbsp;&nbsp; <img title="Edit animated dial 2" src="/Resources/GIF/edit-static-1.gif" width="200"/> &nbsp;&nbsp; <img title="Edit static dial 3" src="/Resources/GIF/edit-static-3.gif" width="200"/> |
+|:--:|
+| *Editing static dial* |
+
+| <img title="Edit animated dial" src="/Resources/GIF/edit-animated.gif" width="200"/> &nbsp;&nbsp; <img title="Edit animated dial" src="/Resources/GIF/edit-animated.gif" width="200"/> &nbsp;&nbsp; <img title="Edit animated dial" src="/Resources/GIF/edit-animated.gif" width="200"/> |
+|:--:|
+| *Editing animated dial* |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+#### Widgets
+
+| <img title="ID Card" src="/Resources/Images/widgets.PNG" width="200"/> &nbsp;&nbsp; <img title="Preview" src="/Resources/GIF/widgets.gif" width="200"/> |
+|:--:|
+| *Widgets* |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+#### Support for all possible Watch Series
+
+| <img title="ID Card" src="/Resources/Images/all-watch-series.PNG" width="200"/> |
+|:--:|
+| *All Watch Series* |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,7 +150,7 @@ The creation of the basic functionality was completed in October 2022. Minor fun
 
 - Self-management, self-development, self-testing;
 - Onboarding and mentoring of new employees;
-- Participation in the creation of projects from scratch.
+- Participation in the creation of projects ***from scratch***.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,7 +167,7 @@ The creation of the basic functionality was completed in October 2022. Minor fun
 - Amplitude, YandexMobileMetrica;
 - GoogleMobileAds, YandexMobileAds;
 - UnsplashPhotoPicker, GiphyUISDK;
-- OpenWeatherMap, timeapi.io, ipinfo.io, localise.biz.
+- OpenWeatherMap, ipinfo.io, localise.biz.
 - Fastlane, Bitrise, Git, Sourcetree, Figma, Tilda;
 - Jira, Notion, Trello;
 - Flow (Po­mo­­doro timer), Sublime.
@@ -145,6 +184,19 @@ The main functionality described below ***was implemented by me or with my activ
 Of course, in addition to this, a lot of small tasks have been completed and a lot of bugs have been fixed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+- Support for variety of watch types
+  Photo & Portrait
+  Animated
+  Faces with complications (Infograph, California, Colored Watch Faces, Meridian, ModularCompact)
+- Complication Data
+  HealthKit and CoreMotion
+  WeatherApi & IpInfoApi
+  Countdown
+  Calendars, Quotes, Date
+- Widgets
+- Support for all possible Watch Series
+- Subscription & Onboarding
 
 
 ### SMTH
