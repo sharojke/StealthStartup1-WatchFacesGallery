@@ -30,7 +30,7 @@
             <li><a href="#watch-faces">Watch Faces</a></li>
             <li><a href="#creating-and-editing-a-watch-face">Creating and Editing a Watch Face</a></li>
             <li><a href="#widgets">Widgets</a></li>
-            <li><a href="#support-for-all-possible-watch-series">Support for all possible Watch Series</a></li>
+            <li><a href="#support-for-all-possible-watch-series-and-watchOS">Support for all possible Watch Series and watchOS</a></li>
           </ul>
         <li><a href="#company">Company</a></li>
         <li><a href="#team-composition">Team Composition</a></li>
@@ -47,10 +47,11 @@
     <li>
       <a href="#functionality">Functionality</a>
       <ul>
-        <li><a href="#one">one</a></li>
-          <ul>
-            <li><a href="#two">two</a></li>
-          </ul>
+        <li><a href="#support-for-variety-of-watch-types">Support for variety of watch types</a></li>
+        <li><a href="#complication-data">Complication Data</a></li>
+        <li><a href="#health-kit">HealthKit</a></li>
+        <li><a href="#weather-api-and-ip-info-api">WeatherApi and IpInfoApi</a></li>
+        <li><a href="#widgets">Widgets</a></li>
       </ul>
     </li>
   </ol>
@@ -73,43 +74,59 @@ Since we didn't have a backend, the task became more difficult. We used *Firebas
 
 #### Watch Faces
 
-| <img title="Main Screen" src="/Resources/GIF/preview1.gif" width="200"/> &nbsp;&nbsp; <img title="Watch Face Screen" src="/Resources/GIF/preview2.gif" width="200"/> |
+Watch Face Viewing Screens:
+
+| <img title="Main Screen" src="/Resources/GIF/viewing-dials-0.gif" width="200"/> &nbsp;&nbsp; <img title="Watch Face Screen" src="/Resources/GIF/viewing-dials-1.gif" width="200"/> |
 |:--:|
 | *Viewing dials* |
 
-Different dial types:
+There are 3 main types of dials:
 
-Static - 3 pictures
-Live - 2 video
-With complications - 1 video and 2 pictures
+| <img title="Static-0" src="/Resources/Images/static-dial-0.PNG" width="200"/> &nbsp;&nbsp; <img title="Static-1" src="/Resources/Images/static-dial-1.PNG" width="200"/> &nbsp;&nbsp; <img title="Static-2" src="/Resources/Images/static-dial-2.PNG" width="200"/> |
+|:--:|
+| *Static dials* |
+
+| <img title="Animated-0" src="/Resources/GIF/animated-dial-0.gif" width="200"/> &nbsp;&nbsp; <img title="Animated-0" src="/Resources/GIF/animated-dial-1.gif" width="200"/> &nbsp;&nbsp; <img title="Animated-0" src="/Resources/GIF/animated-dial-2.gif" width="200"/> |
+|:--:|
+| *Animated dials* |
+
+| <img title="Complication-0" src="/Resources/Images/complications-dial-0.PNG" width="200"/> &nbsp;&nbsp; <img title="Complication-1" src="/Resources/Images/complications-dial-1.PNG" width="200"/> &nbsp;&nbsp; <img title="Complication-3" src="/Resources/Images/complications-dial-3.PNG" width="200"/>  &nbsp;&nbsp; <img title="Complication-5" src="/Resources/GIF/complications-dial-0.gif" width="200"/> |
+|:--:|
+| *Dials with complications* |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 #### Creating and Editing a Watch Face
 
-| <img title="Creator Screen" src="/Resources/GIF/creator.gif" width="200"/> |
+Users have the ability to create and edit dials:
+
+| <img title="Creator-Screen" src="/Resources/Images/creator-screen-0.PNG" width="200"/>  |
 |:--:|
 | *Creator Screen* |
 
-| <img title="Edit static dial 1" src="/Resources/GIF/edit-static-0.gif" width="200"/> &nbsp;&nbsp; <img title="Edit animated dial 2" src="/Resources/GIF/edit-static-1.gif" width="200"/> &nbsp;&nbsp; <img title="Edit static dial 3" src="/Resources/GIF/edit-static-3.gif" width="200"/> |
+| <img title="Edit static dials 1" src="/Resources/GIF/editing-static-dial-0.gif" width="200"/> &nbsp;&nbsp; <img title="Edit animated dials 2" src="/Resources/GIF/editing-static-dial-1.gif" width="200"/> &nbsp;&nbsp; <img title="Edit static dials 3" src="/Resources/GIF/editing-static-dial-2.gif" width="200"/> |
 |:--:|
-| *Editing static dial* |
+| *Editing static dials* |
 
-| <img title="Edit animated dial" src="/Resources/GIF/edit-animated.gif" width="200"/> &nbsp;&nbsp; <img title="Edit animated dial" src="/Resources/GIF/edit-animated.gif" width="200"/> &nbsp;&nbsp; <img title="Edit animated dial" src="/Resources/GIF/edit-animated.gif" width="200"/> |
+| <img title="Edit animated dials 1" src="/Resources/GIF/editing-animated-dial-0.gif" width="200"/> |
 |:--:|
-| *Editing animated dial* |
+| *Editing animated dials* |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 #### Widgets
 
-| <img title="ID Card" src="/Resources/Images/widgets.PNG" width="200"/> &nbsp;&nbsp; <img title="Preview" src="/Resources/GIF/widgets.gif" width="200"/> |
+In addition to this, the user can decorate the screen of they phone with widgets:
+
+| <img title="ID Card" src="/Resources/Images/viewing-widgets-0.PNG" width="200"/> &nbsp;&nbsp; <img title="Preview" src="/Resources/GIF/viewing-widgets-0.gif" width="200"/> |
 |:--:|
 | *Widgets* |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-#### Support for all possible Watch Series
+#### Support for all possible Watch Series and watchOS
+
+The app supports all possible apple watches, as well as all watchOS
 
 | <img title="ID Card" src="/Resources/Images/all-watch-series.PNG" width="200"/> |
 |:--:|
@@ -185,32 +202,90 @@ Of course, in addition to this, a lot of small tasks have been completed and a l
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- Support for variety of watch types
-  Photo & Portrait
-  Animated
-  Faces with complications (Infograph, California, Colored Watch Faces, Meridian, ModularCompact)
-- Complication Data
-  HealthKit and CoreMotion
-  WeatherApi & IpInfoApi
-  Countdown
-  Calendars, Quotes, Date
-- Widgets
-- Support for all possible Watch Series
-- Subscription & Onboarding
 
+### Support for variety of watch types
 
-### SMTH
+The main task was to figure out how to generate a watchface file for different types of dials. It took quite a long time to learn how to support all possible types of dials. Below are the proofs that the dials are generated in our application and then fall on the watch itself:
 
-SMTH
+| <img title="Photo" src="/Resources/GIF/install-photo.gif" width="200"/> &nbsp;&nbsp; <img title="Photo" src="/Resources/Images/install-photo-0.PNG" width="300"/> |
+|:--:|
+| *Photo* |
+
+| <img title="Portrait" src="/Resources/GIF/install-portrait.gif" width="200"/> &nbsp;&nbsp; <img title="Portrait" src="/Resources/Images/install-portrait-0.PNG" width="300"/> &nbsp;&nbsp; <img title="Portrait" src="/Resources/Images/install-portrait-1.PNG" width="300"/> |
+|:--:|
+| *Portrait* |
+
+| <img title="Animated" src="/Resources/GIF/install-animated.gif" width="200"/> &nbsp;&nbsp; <img title="Animated" src="/Resources/GIF/install-animated-0.gif" width="200"/> |
+|:--:|
+| *Animated* |
+
+| <img title="Meridian" src="/Resources/GIF/install-meridian.gif" width="200"/> &nbsp;&nbsp; <img title="Meridian" src="/Resources/Images/install-meridian-0.PNG" width="300"/> &nbsp;&nbsp; <img title="Meridian" src="/Resources/Images/install-meridian-1.PNG" width="300"/> |
+|:--:|
+| *Meridian* |
+
+| <img title="Modular Compact" src="/Resources/GIF/install-modularcompact.gif" width="200"/> &nbsp;&nbsp; <img title="Modular Compact" src="/Resources/Images/install-modularcompact-0.PNG" width="300"/> &nbsp;&nbsp; <img title="Modular Compact" src="/Resources/Images/install-modularcompact-1.PNG" width="300"/> |
+|:--:|
+| *Modular Compact* |
+
+| <img title="Infograph" src="/Resources/GIF/install-infograph.gif" width="200"/> &nbsp;&nbsp; <img title="Infograph" src="/Resources/Images/install-infograph-0.PNG" width="300"/> &nbsp;&nbsp; <img title="Infograph" src="/Resources/Images/install-infograph-1.PNG" width="300"/> &nbsp;&nbsp; <img title="Infograph" src="/Resources/Images/install-infograph-2.PNG" width="300"/> |
+|:--:|
+| *Infograph* |
+
+| <img title="Infograph Modular" src="/Resources/GIF/install-infographmodular.gif" width="200"/> &nbsp;&nbsp; <img title="Infograph Modular" src="/Resources/Images/install-infographmodular-0.PNG" width="300"/> &nbsp;&nbsp; <img title="Infograph Modular" src="/Resources/Images/install-infographmodular-1.PNG" width="300"/> |
+|:--:|
+| *Infograph Modular* |
+
+| <img title="XLarge" src="/Resources/GIF/install-xlarge.gif" width="200"/> &nbsp;&nbsp; <img title="XLarge" src="/Resources/Images/install-xlarge-0.PNG" width="300"/> &nbsp;&nbsp; <img title="XLarge" src="/Resources/Images/install-xlarge-1.PNG" width="300"/> &nbsp;&nbsp; <img title="XLarge" src="/Resources/Images/install-xlarge-2.PNG" width="300"/> &nbsp;&nbsp; <img title="XLarge" src="/Resources/Images/install-xlarge-3.PNG" width="300"/> |
+|:--:|
+| *XLarge* |
+
+| <img title="Modular Duo" src="/Resources/GIF/install-modularduo.gif" width="200"/> &nbsp;&nbsp; <img title="Modular Duo" src="/Resources/Images/install-modularduo-0.PNG" width="300"/> &nbsp;&nbsp; <img title="Modular Duo" src="/Resources/Images/install-modularduo-1.PNG" width="300"/> &nbsp;&nbsp; <img title="Modular Duo" src="/Resources/Images/install-modularduo-2.PNG" width="300"/> &nbsp;&nbsp; <img title="Modular Duo" src="/Resources/Images/install-modularduo-3.PNG" width="300"/> |
+|:--:|
+| *Modular Duo* |
+
+| <img title="California" src="/Resources/Images/install-california-0.PNG" width="300"/> &nbsp;&nbsp; <img title="California" src="/Resources/Images/install-california-1.PNG" width="300"/> |
+|:--:|
+| *California* |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-#### SMTH
+### Complication Data
 
-| <img title="Weather Elements" src="/Resources/Images/weather-preview-0.PNG" width="200"/> &nbsp;&nbsp; <img title="Weather Elements" src="/Resources/Images/weather-elements-0.PNG" width="200"/> |
+All the information that is displayed on the packages was written in WatchKitExtension and is displayed using Views, which are written using SwiftUI.
+
+- HealthKit - steps, walking + running distance, active energy, activity, heart rate
+- WeatherApi & IpInfoApi
+- Countdown to any holiday
+- Calendars
+- Different types of time using TimeFormatter
+- Quotes
+- Battery
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### HealthKit
+
+In order for us to use data from the Health application, the application needs access to user data. In this case, we used read access, but not write access.
+
+| <img title="HealthKit permissions" src="/Resources/GIF/health-kit-permissions.gif" width="200"/> |
 |:--:|
-| <img title="Weather Elements" src="/Resources/Images/weather-preview-1.PNG" width="200"/> &nbsp;&nbsp; <img title="Weather Elements" src="/Resources/Images/weather-elements-1.PNG" width="200"/> |
-| *Weather Elements* |
+| *HealthKit permissions* |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### WeatherApi and IpInfoApi
+
+In order to use WeatherApi, you need to know the user's geolocation. In case they don't want to give access to geolocation, but want to install a dial, we use IpInfoApi to determine the location.
+
+| <img title="Location permission" src="/Resources/GIF/location-permission.gif" width="200"/> |
+|:--:|
+| *Location permission* |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### WeatherApi and IpInfoApi
+
+Despite the fact that the number of widgets and their variety is very small, widgets could be added remotely via Firebase.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
