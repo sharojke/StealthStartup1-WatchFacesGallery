@@ -90,7 +90,7 @@ There are 3 main types of dials:
 |:--:|
 | *Animated dials* |
 
-| <img title="Complication-0" src="/Resources/Images/complications-dial-0.PNG" width="200"/> &nbsp;&nbsp; <img title="Complication-1" src="/Resources/Images/complications-dial-1.PNG" width="200"/> &nbsp;&nbsp; <img title="Complication-3" src="/Resources/Images/complications-dial-3.PNG" width="200"/>  &nbsp;&nbsp; <img title="Complication-5" src="/Resources/GIF/complications-dial-0.gif" width="200"/> |
+| <img title="Complication-0" src="/Resources/Images/complications-dial-0.PNG" width="200"/> &nbsp;&nbsp; <img title="Complication-1" src="/Resources/Images/complications-dial-1.PNG" width="200"/> &nbsp;&nbsp; <img title="Complication-2" src="/Resources/Images/complications-dial-2.PNG" width="200"/> &nbsp;&nbsp; <img title="Complication-3" src="/Resources/Images/complications-dial-3.PNG" width="200"/>  &nbsp;&nbsp; <img title="Complication-5" src="/Resources/GIF/complications-dial-0.gif" width="200"/> &nbsp;&nbsp; <img title="Complication-6" src="/Resources/Images/complications-dial-5.PNG" width="200"/>  |
 |:--:|
 | *Dials with complications* |
 
@@ -219,7 +219,7 @@ The main task was to figure out how to generate a watchface file for different t
 |:--:|
 | *Animated* |
 
-| <img title="Meridian" src="/Resources/GIF/install-meridian.gif" width="200"/> &nbsp;&nbsp; <img title="Meridian" src="/Resources/Images/install-meridian-0.PNG" width="300"/> &nbsp;&nbsp; <img title="Meridian" src="/Resources/Images/install-meridian-1.PNG" width="300"/> |
+| <img title="Meridian" src="/Resources/GIF/install-meridian.gif" width="200"/> &nbsp;&nbsp; <img title="Meridian" src="/Resources/Images/install-meridian-0.PNG" width="300"/> &nbsp;&nbsp; <img title="Meridian" src="/Resources/Images/install-meridian-1.PNG" width="300"/> &nbsp;&nbsp; <img title="Meridian" src="/Resources/Images/install-meridian-2.PNG" width="300"/> |
 |:--:|
 | *Meridian* |
 
@@ -231,7 +231,7 @@ The main task was to figure out how to generate a watchface file for different t
 |:--:|
 | *Infograph* |
 
-| <img title="Infograph Modular" src="/Resources/GIF/install-infographmodular.gif" width="200"/> &nbsp;&nbsp; <img title="Infograph Modular" src="/Resources/Images/install-infographmodular-0.PNG" width="300"/> &nbsp;&nbsp; <img title="Infograph Modular" src="/Resources/Images/install-infographmodular-1.PNG" width="300"/> |
+| <img title="Infograph Modular" src="/Resources/GIF/install-infographmodular.gif" width="200"/> &nbsp;&nbsp; <img title="Infograph Modular" src="/Resources/Images/install-infographmodular-0.PNG" width="300"/> &nbsp;&nbsp; <img title="Infograph Modular" src="/Resources/Images/install-infographmodular-1.PNG" width="300"/> &nbsp;&nbsp; <img title="Infograph Modular" src="/Resources/Images/install-infographmodular-2.PNG" width="300"/> |
 |:--:|
 | *Infograph Modular* |
 
@@ -254,7 +254,7 @@ The main task was to figure out how to generate a watchface file for different t
 All the information that is displayed on the packages was written in WatchKitExtension and is displayed using Views, which are written using SwiftUI.
 
 - HealthKit - steps, walking + running distance, active energy, activity, heart rate
-- WeatherApi & IpInfoApi
+- Weather forecast - current, hourly, daily, max/min temp, etc
 - Countdown to any holiday
 - Calendars
 - Different types of time using TimeFormatter
@@ -285,7 +285,13 @@ In order to use WeatherApi, you need to know the user's geolocation. In case the
 
 ### WeatherApi and IpInfoApi
 
-Despite the fact that the number of widgets and their variety is very small, widgets could be added remotely via Firebase.
+Different types of widgets with a variety of information. Despite the fact that the number of widgets and their variety is quite small, widgets could be added remotely via Firebase.
+
+| <img title="Style 1" src="/Resources/Images/install-widget-0.PNG" width="200"/> |
+|:--:|
+| <img title="Style 2" src="/Resources/Images/install-widget-1.PNG" width="200"/> |
+| <img title="Style 3" src="/Resources/Images/install-widget-2.PNG" width="200"/> |
+| *Widget styles* |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
