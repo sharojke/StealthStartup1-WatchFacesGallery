@@ -287,10 +287,10 @@ In order to use WeatherApi, you need to know the user's geolocation. In case the
 
 Different types of widgets with a variety of information. Despite the fact that the number of widgets and their variety is quite small, widgets could be added remotely via Firebase.
 
-| <img title="Style 1" src="/Resources/Images/install-widget-0.PNG" width="200"/> |
+| <img title="Style 1" src="/Resources/Images/install-widget-0.PNG" width="400"/> |
 |:--:|
-| <img title="Style 2" src="/Resources/Images/install-widget-1.PNG" width="200"/> |
-| <img title="Style 3" src="/Resources/Images/install-widget-2.PNG" width="200"/> |
+| <img title="Style 2" src="/Resources/Images/install-widget-1.PNG" width="400"/> |
+| <img title="Style 3" src="/Resources/Images/install-widget-2.PNG" width="400"/> |
 | *Widget styles* |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
