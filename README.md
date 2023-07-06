@@ -90,8 +90,9 @@ There are 3 main types of dials:
 |:--:|
 | *Animated dials* |
 
-| <img title="Complication-0" src="/Resources/Images/complications-dial-0.PNG" width="200"/> &nbsp;&nbsp; <img title="Complication-1" src="/Resources/Images/complications-dial-1.PNG" width="200"/> &nbsp;&nbsp; <img title="Complication-2" src="/Resources/Images/complications-dial-2.PNG" width="200"/> &nbsp;&nbsp; <img title="Complication-3" src="/Resources/Images/complications-dial-3.PNG" width="200"/>  &nbsp;&nbsp; <img title="Complication-5" src="/Resources/GIF/complications-dial-0.gif" width="200"/> &nbsp;&nbsp; <img title="Complication-6" src="/Resources/Images/complications-dial-5.PNG" width="200"/>  |
+| <img title="Complication-0" src="/Resources/Images/complications-dial-0.PNG" width="200"/> &nbsp;&nbsp; <img title="Complication-1" src="/Resources/Images/complications-dial-1.PNG" width="200"/> &nbsp;&nbsp; <img title="Complication-2" src="/Resources/Images/complications-dial-2.PNG" width="200"/> |
 |:--:|
+| <img title="Complication-3" src="/Resources/Images/complications-dial-3.PNG" width="200"/> &nbsp;&nbsp; <img title="Complication-5" src="/Resources/GIF/complications-dial-0.gif" width="200"/> &nbsp;&nbsp; <img title="Complication-6" src="/Resources/Images/complications-dial-5.PNG" width="200"/>  |
 | *Dials with complications* |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
