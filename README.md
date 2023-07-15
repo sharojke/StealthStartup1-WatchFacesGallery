@@ -29,7 +29,7 @@
           <ul>
             <li><a href="#watch-faces">Watch Faces</a></li>
             <li><a href="#creating-and-editing-a-watch-face">Creating and Editing a Watch Face</a></li>
-            <li><a href="#widgets">Widgets</a></li>
+            <li><a href="#viewing-widgets">Viewing Widgets</a></li>
             <li><a href="#support-for-all-possible-watch-series-and-watchOS">Support for all possible Watch Series and watchOS</a></li>
           </ul>
         <li><a href="#company">Company</a></li>
@@ -115,7 +115,7 @@ Users have the ability to create and edit dials:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-#### Widgets
+#### Viewing Widgets
 
 In addition to this, the user can decorate the screen of they phone with widgets:
 
