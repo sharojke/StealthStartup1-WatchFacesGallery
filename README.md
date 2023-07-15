@@ -86,7 +86,7 @@ There are 3 main types of dials:
 |:--:|
 | *Static dials* |
 
-| <img title="Animated-0" src="/Resources/GIF/animated-dial-0.gif" width="200"/> &nbsp;&nbsp; <img title="Animated-0" src="/Resources/GIF/animated-dial-1.gif" width="200"/> &nbsp;&nbsp; <img title="Animated-0" src="/Resources/GIF/animated-dial-2.gif" width="200"/> |
+| <img title="Animated-0" src="/Resources/GIF/animated-dial-0.gif" width="200"/> &nbsp;&nbsp; <img title="Animated-1" src="/Resources/GIF/animated-dial-1.gif" width="200"/> &nbsp;&nbsp; <img title="Animated-2" src="/Resources/GIF/animated-dial-2.gif" width="200"/> |
 |:--:|
 | *Animated dials* |
 
@@ -284,7 +284,7 @@ In order to use WeatherApi, you need to know the user's geolocation. In case the
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### WeatherApi and IpInfoApi
+### Widgets
 
 Different types of widgets with a variety of information. Despite the fact that the number of widgets and their variety is quite small, widgets could be added remotely via Firebase.
 
