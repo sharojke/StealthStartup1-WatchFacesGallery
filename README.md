@@ -119,9 +119,9 @@ Users have the ability to create and edit dials:
 
 In addition to this, the user can decorate the screen of they phone with widgets:
 
-| <img title="ID Card" src="/Resources/Images/viewing-widgets-0.PNG" width="200"/> &nbsp;&nbsp; <img title="Preview" src="/Resources/GIF/viewing-widgets-0.gif" width="200"/> |
+| <img title="Viewing Widgets" src="/Resources/Images/viewing-widgets-0.PNG" width="200"/> &nbsp;&nbsp; <img title="Preview" src="/Resources/GIF/viewing-widgets-0.gif" width="200"/> |
 |:--:|
-| *Widgets* |
+| *Viewing Widgets* |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -129,7 +129,7 @@ In addition to this, the user can decorate the screen of they phone with widgets
 
 The app supports all possible apple watches, as well as all watchOS
 
-| <img title="ID Card" src="/Resources/Images/all-watch-series.PNG" width="200"/> |
+| <img title="All Watch Series" src="/Resources/Images/all-watch-series.PNG" width="200"/> |
 |:--:|
 | *All Watch Series* |
 
