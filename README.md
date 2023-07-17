@@ -31,6 +31,7 @@
             <li><a href="#creating-and-editing-a-watch-face">Creating and Editing a Watch Face</a></li>
             <li><a href="#viewing-widgets">Viewing Widgets</a></li>
             <li><a href="#support-for-all-possible-watch-series-and-watchOS">Support for all possible Watch Series and watchOS</a></li>
+            <li><a href="#watch-app">Watch App</a></li>
           </ul>
         <li><a href="#company">Company</a></li>
         <li><a href="#team-composition">Team Composition</a></li>
@@ -132,6 +133,15 @@ The app supports all possible apple watches, as well as all watchOS
 | <img title="All Watch Series" src="/Resources/Images/all-watch-series.PNG" width="200"/> |
 |:--:|
 | *All Watch Series* |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+#### Watch App
+
+| <img title="Watch App" src="/Resources/Images/watch-app-0.PNG" width="250"/> &nbsp;&nbsp; <img title="Watch App" src="/Resources/Images/watch-app-1.PNG" width="250"/> &nbsp;&nbsp; <img title="Watch App" src="/Resources/Images/watch-app-2.PNG" width="250"/> |
+|:--:|
+| <img title="Watch App" src="/Resources/Images/watch-app-3.PNG" width="250"/> &nbsp;&nbsp; <img title="Watch App" src="/Resources/Images/watch-app-4.PNG" width="250"/> &nbsp;&nbsp; <img title="Watch App" src="/Resources/Images/watch-app-5.PNG" width="250"/> |
+| *Watch App* |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
