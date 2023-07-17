@@ -30,7 +30,7 @@
             <li><a href="#watch-faces">Watch Faces</a></li>
             <li><a href="#creating-and-editing-a-watch-face">Creating and Editing a Watch Face</a></li>
             <li><a href="#viewing-widgets">Viewing Widgets</a></li>
-            <li><a href="#support-for-all-possible-watch-series-and-watchOS">Support for all possible Watch Series and watchOS</a></li>
+            <li><a href="#support-for-all-possible-watch-series-and-watch-os">Support for all possible Watch Series and watch OS</a></li>
             <li><a href="#watch-app">Watch App</a></li>
           </ul>
         <li><a href="#company">Company</a></li>
@@ -50,8 +50,8 @@
       <ul>
         <li><a href="#support-for-variety-of-watch-types">Support for variety of watch types</a></li>
         <li><a href="#complication-data">Complication Data</a></li>
-        <li><a href="#health-kit">HealthKit</a></li>
-        <li><a href="#weather-api-and-ip-info-api">WeatherApi and IpInfoApi</a></li>
+        <li><a href="#health-kit">Health Kit</a></li>
+        <li><a href="#weather-api-and-ip-info-api">Weather Api and Ip Info Api</a></li>
         <li><a href="#widgets">Widgets</a></li>
       </ul>
     </li>
@@ -126,7 +126,7 @@ In addition to this, the user can decorate the screen of they phone with widgets
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-#### Support for all possible Watch Series and watchOS
+#### Support for all possible Watch Series and watch OS
 
 The app supports all possible apple watches, as well as all watchOS
 
@@ -274,7 +274,7 @@ All the information that is displayed on the packages was written in WatchKitExt
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### HealthKit
+### Health Kit
 
 In order for us to use data from the Health application, the application needs access to user data. In this case, we used read access, but not write access.
 
@@ -284,7 +284,7 @@ In order for us to use data from the Health application, the application needs a
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### WeatherApi and IpInfoApi
+### Weather Api and Ip Info Api
 
 In order to use WeatherApi, you need to know the user's geolocation. In case they don't want to give access to geolocation, but want to install a dial, we use IpInfoApi to determine the location.
 
