@@ -165,7 +165,7 @@ A startup initiated by my colleague from our previous place of work. The main re
 
 *December 2021 - present*  
 The development of the application began in December 2021.  
-The creation of the basic functionality was completed in April 2022. Minor functionality is still being supported and added.
+The creation of the basic functionality was completed in October 2022. Minor functionality is still being supported and added.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
