@@ -69,7 +69,7 @@
 Watch Faces #1 is an application that helps people decorate their watches with *Watch Faces*.  
 The main idea was that we could add new content without updating the app. The user has the ability to use as well as edit this content.
 
-Since we didn't have a backend, the task became more difficult. We used *Firebase* as a backend.
+[Link to the AppStore.](https://apps.apple.com/app/watch-faces-for-iwatch-gallery/id1566000501)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
