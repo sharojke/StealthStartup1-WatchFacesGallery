@@ -5,20 +5,14 @@
 
 <br />
 <div align="center">
-  <img title="App Icon" src="/Resources/Images/app-icon.JPG" alt="Logo" height="200">
-  
+  <img title="App Icon" src="/Resources/Images/WatchFaces1-wide.jpg" alt="Logo" height="200">
   <h3 align="center">Watch Faces #1</h3>
-  
-  <p align="center">
-    <em>
-      An application that helps people decorate their apple watches
-    </em>
   </p>
 </div>
 
 
 
-
+[Link to the AppStore](https://apps.apple.com/app/watch-faces-for-iwatch-gallery/id1566000501)
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -68,8 +62,6 @@
 
 Watch Faces #1 is an application that helps people decorate their watches with *Watch Faces*.  
 The main idea was that we could add new content without updating the app. The user has the ability to use as well as edit this content.
-
-[Link to the AppStore.](https://apps.apple.com/app/watch-faces-for-iwatch-gallery/id1566000501)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
