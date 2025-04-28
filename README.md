@@ -139,7 +139,7 @@ The app supports all possible apple watches, as well as all watchOS
 
 ### Company
 
-A startup initiated by my colleague from our previous place of work. The main reasons for creating the startup are the partial preservation of the team and the implementation of ideas for applications that could not be implemented in the previous company.
+**[Uniapps](https://www.linkedin.com/company/uniappsmobi/)** is a young product company that appeared in 2022 and was originally a startup. After a year and a half-ish of hard work and several successful applications, the company had received the resources to grow and thrive.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
