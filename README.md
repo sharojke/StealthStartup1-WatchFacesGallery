@@ -5,14 +5,14 @@
 
 <br />
 <div align="center">
-  <img title="App Icon" src="/Resources/Images/WatchFaces1-wide.jpg" alt="Logo" height="200">
-  <h3 align="center">Watch Faces #1</h3>
+  <img title="App Icon" src="/Resources/Images/Watch Faces Gallery logo.jpg" alt="Logo" height="200" width="355">
+  <h3 align="center"></h3>
   </p>
 </div>
 
 
 
-[Link to the AppStore](https://apps.apple.com/app/watch-faces-for-iwatch-gallery/id1566000501)
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -60,7 +60,7 @@
 
 ### Description
 
-Watch Faces #1 is an application that helps people decorate their watches with *Watch Faces*.  
+Watch Faces Gallery is an application that helps people decorate their watches with *Watch Faces*.  
 The main idea was that we could add new content without updating the app. The user has the ability to use as well as edit this content.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -139,7 +139,24 @@ The app supports all possible apple watches, as well as all watchOS
 
 ### Company
 
-**[Uniapps](https://www.linkedin.com/company/uniappsmobi/)** is a young product company that appeared in 2022 and was originally a startup. After a year and a half-ish of hard work and several successful applications, the company had received the resources to grow and thrive.
+**Stealth Startup** is a young product company that appeared in 2022. Some information about the company and its products is under NDA.
+
+Other projects of the company I've worked on:
+- <p align="left">
+    <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/AppleWatch.jpg" height="35" width="35"/>
+    <a href="https://github.com/sharojke/StealthStartup1-WatchFacesCommunity"> Watch Faces Community</a>
+    <a>is an application that helps people decorate their apple watches, create new ones and share with the community.</a>
+  </p>
+- <p align="left">
+    <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/StealthStartup1/StealthStartup1-SoundAmplifier.png" height="35" width="35"/>
+    <a href="https://github.com/sharojke/StealthStartup1-SoundAmplifier"> Sound Amplifier</a>
+    <a>is an application that provides a quick hearing test and offers personalized sound enhancement to help you hear more clearly and comfortably.</a>
+  </p>
+- <p align="left">
+    <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/AppleWatch.jpg" height="35" width="35"/>
+    <a href="https://github.com/sharojke/StealthStartup1-WatchFacesForAppleWatch"> Watch Faces For Apple Watch</a>
+    <a>is an application that helps people decorate their apple watches.</a>
+  </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
